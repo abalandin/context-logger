@@ -2,13 +2,13 @@
     "name": "context-logger",
     "version": "0.0.1",
     "description": "console replacement, can log to stdout or syslog",
-    "main": "context-logger.js",
+    "main": "lib/context-logger.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "TODO"
+        "url": "git@github.com:abalandin/context-logger.git"
     },
     "keywords": [
         "console",
