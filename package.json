@@ -1,0 +1,24 @@
+{
+    "name": "context-logger",
+    "version": "0.0.1",
+    "description": "console replacement, can log to stdout or syslog",
+    "main": "context-logger.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "TODO"
+    },
+    "keywords": [
+        "console",
+        "syslog",
+        "logger",
+        "log"
+    ],
+    "dependencies": {
+        "posix": "~1.0.3"
+    },
+    "author": "Aleksei Balandin",
+    "license": "MIT"
+}
